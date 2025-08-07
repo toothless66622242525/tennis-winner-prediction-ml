@@ -1,0 +1,19 @@
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Generated data artifacts (we create these from the raw CSV)
+*.pkl
+*.db
+
+# Secrets and Credentials
+*.json
+credentials.json
+*.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
